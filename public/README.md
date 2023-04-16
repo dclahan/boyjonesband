@@ -1,1 +1,1 @@
-this is where everything that will be shown to the PUBLIC wil be i guess, so it should have everything i think, that or fix the filepaths to make them not have ".." but absolute paths when they're being pointed to.
+this is everythig you have to work with

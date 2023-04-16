@@ -50,6 +50,7 @@ pre {
 
 .dog-pic {
     width: 20rem;
+    cursor: default;
 }
 
 .footer {
